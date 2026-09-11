@@ -1,1 +1,1 @@
-https://radical-printed-focal-prostores.trycloudflare.com
+https://api.trycloudflare.com
